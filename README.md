@@ -10,4 +10,4 @@ Welcome to my writing archive! Unless otherwise noted, all of the material in th
 
 All other rights reserved. 
 
-Please see the [index.md](index) for more information. 
+Please see the [index](index.md) for more information. 
